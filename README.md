@@ -19,6 +19,7 @@
 
 - Arithmetic operations: Addition, subtraction, multiplication, and division.
 - Clear button to reset the calculator.
+- Display showing math operations.
 - Modern glass-inspired design.
 
 
