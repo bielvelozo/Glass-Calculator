@@ -1,0 +1,35 @@
+
+.button {
+    font-size: 1.6em;
+    font-weight: 200;
+    border: none;
+    outline: none;
+    color:#fff;
+    border-radius: 5px;
+
+    user-select: none;
+
+    /* From https://css.glass */
+    background-color: transparent;
+
+}
+
+.button:active {
+    background-color: rgba(204, 204, 204, 0.46);
+}
+
+.button.double {
+    grid-column: span 2;
+}
+
+.button.triple {
+    grid-column: span 3;
+}
+
+.button.operation {
+    color: #fff;
+}
+
+.button.operation:active {
+    background-color: rgba(245, 155, 82, 0.46);
+}
