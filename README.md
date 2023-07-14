@@ -34,13 +34,13 @@
 
 ```
 git clone https://github.com/bielvelozo/Glass-Calculator.git
-npm install
+cd Glass-Calculator
 ```
 
 <h5>Start the development server</h5>
 
 ```
-cd Glass-Calculator
+npm install
 npm start
 ```
 
