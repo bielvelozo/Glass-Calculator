@@ -39,8 +39,8 @@ npm install
 <h5>Start the development server</h5>
 
 ```
-  cd Glass-Calculator
-  npm start
+cd Glass-Calculator
+npm start
 ```
 
 <h2 id="license">License 📃 </h2>
