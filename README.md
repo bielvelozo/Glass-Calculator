@@ -10,8 +10,8 @@
 <b>A simple calculator application with a glass-like appearance built using React.</b>
 </p>
 <p align="center">
-    <img src="https://github.com/bielvelozo/Glass-Calculator/assets/89873855/af2ce0b8-ade4-4218-8b74-d8696eca6d35" width="400px">
-    <img src="https://github.com/bielvelozo/Glass-Calculator/assets/89873855/afb9baa8-6a04-4fda-990f-af8d9b8aa741" width="200px">
+    <img src="https://github.com/bielvelozo/Glass-Calculator/assets/89873855/436f36d7-393a-429c-8f55-32671f2ad04a" width="400px">
+    <img src="https://github.com/bielvelozo/Glass-Calculator/assets/89873855/f65f6891-bd37-4ec4-862c-91f002b2661b" width="200px">
 </p>
 
 
@@ -21,6 +21,9 @@
 - Clear button to reset the calculator.
 - Display showing math operations.
 - Modern glass-inspired design.
+
+<h2 id="clone">Link:</h2> https://bielvelozo.github.io/Glass-Calculator/
+
 
 
 <h2 id="clone">Clone</h2>
